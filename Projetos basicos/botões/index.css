@@ -1,0 +1,12 @@
+#carrosPlay{
+    background-color:black;
+    display:none;
+    border:2px solid black;
+  }
+  #play{
+    margin:50%;
+    color:white;
+    background-color:red;
+    border-radius:50%;
+  
+  }

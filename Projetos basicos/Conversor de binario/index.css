@@ -1,0 +1,29 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.center{
+display: grid;
+place-items: center;
+}
+
+.container{
+    background-color: aqua;
+   padding: 10rem 40rem 10rem 40rem;
+}
+
+
+input{
+
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+
+
+.binario{
+    display: grid;
+place-items: center;
+}
